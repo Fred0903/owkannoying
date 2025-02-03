@@ -1,0 +1,26 @@
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+#yesBtn {
+    background-color: #28a745;
+    color: white;
+}
+
+#yesBtn:hover {
+    background-color: #218838;
+}
+
+#noBtn {
+    background-color: #dc3545;
+    color: white;
+}
+
+#noBtn:hover {
+    background-color: #c82333;
+}
